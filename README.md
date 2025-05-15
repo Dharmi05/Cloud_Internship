@@ -1,5 +1,4 @@
-# ☁️ Cloud Computing Internship Tasks – CodTech
-
+# ☁️ Cloud Computing Internship Tasks
 Welcome to my **Cloud Computing Internship** repository! 👩‍💻🧑‍💻  
 This repo includes **all four hands-on tasks**. The projects explore essential cloud skills using platforms like **AWS**, **Google Cloud**, and **Azure**.
 
