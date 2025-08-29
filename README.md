@@ -1,4 +1,4 @@
-<img width="1912" height="862" alt="image" src="https://github.com/user-attachments/assets/17513740-b0fa-460e-80f9-879bad49fbfd" /># ☁️ Cloud Computing Internship Tasks
+# ☁️ Cloud Computing Internship Tasks
 Welcome to my **Cloud Computing Internship** repository! 👩‍💻🧑‍💻  
 This repo includes **all four hands-on tasks**. The projects explore essential cloud skills using platforms like **AWS**, **Google Cloud**, and **Azure**.
 
@@ -16,6 +16,8 @@ Configured public and private access policies using IAM
 - Cloud bucket setup
 - Example file uploads
 - Proper access permissions
+  
+  <img width="1912" height="862" alt="image" src="https://github.com/user-attachments/assets/17513740-b0fa-460e-80f9-879bad49fbfd" />
   <img width="959" height="389" alt="image" src="https://github.com/user-attachments/assets/a51a2029-ca6b-4ace-8fd7-e98dafe2da17" />
   <img width="953" height="390" alt="image" src="https://github.com/user-attachments/assets/422c21fa-47fe-47d4-ae47-c8ac65340a1b" />
   <img width="959" height="390" alt="image" src="https://github.com/user-attachments/assets/2001116e-8758-46ca-8e5b-f7cbc91b7598" />
@@ -23,6 +25,13 @@ Configured public and private access policies using IAM
   <img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/7ec71a8a-4504-4c1a-aa2c-9716b35333c0" />
   <img width="959" height="392" alt="image" src="https://github.com/user-attachments/assets/3ed395e1-0c9b-4920-a7cd-20829e5fef68" />
   <img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/8d4a3b7a-6a93-4c92-a99b-805e232ccb11" />
+  <img width="649" height="454" alt="image" src="https://github.com/user-attachments/assets/c50b7228-f927-4e8d-a907-9c9cccb9d095" />
+  <img width="646" height="458" alt="image" src="https://github.com/user-attachments/assets/37e2c908-a788-4127-ae13-de18ab6f0715" />
+  <img width="650" height="415" alt="image" src="https://github.com/user-attachments/assets/ce09083e-1641-4891-8b11-1fea26745cf9" />
+  <img width="649" height="457" alt="image" src="https://github.com/user-attachments/assets/72ab37d5-018b-4365-b06d-bab9cfaf1694" />
+  <img width="666" height="461" alt="image" src="https://github.com/user-attachments/assets/1e491189-ff03-4df3-9c2d-b29a62bd681c" />
+  <img width="666" height="460" alt="image" src="https://github.com/user-attachments/assets/229f24bc-66ac-4341-b626-858742aea3d3" />
+  <img width="667" height="455" alt="image" src="https://github.com/user-attachments/assets/85444b81-0c4f-4f67-85e0-74e8a65abcdd" />
 
 Description: Outlined the setup process, selected region, IAM configurations, and access settings.
 
